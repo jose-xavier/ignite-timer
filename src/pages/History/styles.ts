@@ -79,7 +79,7 @@ export const Status = styled.span<StatusProps>`
   display: flex;
   gap: 0.5rem;
   align-items: center;
-  justify-content: center;
+  justify-content: left;
 
   ::before {
     content: '';
